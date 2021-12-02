@@ -2162,11 +2162,12 @@ input::-moz-focus-inner {
 }
 
 .s-about > [class*="about-"] {
-  margin-bottom: 10rem;
+  margin-bottom: 0rem;
 }
 
 .s-about > [class*="about-"]:last-child {
   margin-bottom: 0;
+  padding-top: 8rem;
 }
 
 .about-me__text {

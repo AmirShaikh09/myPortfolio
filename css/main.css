@@ -2483,7 +2483,7 @@ input::-moz-focus-inner {
  *
  *  */
 .s-services {
-  padding-top: 5rem;
+  padding-top: 10rem;
   padding-bottom: 5rem;
   background-repeat: no-repeat;
   background-position: center center;
@@ -3222,7 +3222,7 @@ input::-moz-focus-inner {
  *
  *  */
 .s-contact {
-  padding-top: 5rem;
+  padding-top: 10rem;
   padding-bottom: 5rem;
   background-color: #050505;
 }
